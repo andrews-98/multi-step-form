@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Hosting address: multi-step-form-876a1.firebaseapp.com
+Hosting address: https://multi-step-form-876a1.firebaseapp.com
 
 ## Available Scripts
 
