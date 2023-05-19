@@ -26,10 +26,6 @@ const FormBoxWrapper = styled.div`
   padding: .5rem;
   border-radius: 8px;
   background: white;
-  position: absolute;
-  top:50%;
-  left:50%;
-  transform: translate(-50%,-50%);
   display:flex;
   margin-top: 0rem;
   }

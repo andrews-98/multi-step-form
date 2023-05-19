@@ -13,9 +13,14 @@ html {
 }
 
 body {
+  min-height: 100vh;
   font-size: 100%;
   font-family: 'Ubuntu', sans-serif;
   background: #d6d9e6;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 code {
